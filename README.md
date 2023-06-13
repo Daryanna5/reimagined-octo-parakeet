@@ -1,2 +1,2 @@
-# reimagined-octo-parakeet
-simplicity
+# whoso
+another term for whoever
